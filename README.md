@@ -1,7 +1,6 @@
 <h1 align="center">👋 Здравствуйте! Меня зовут Кира</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiraKazonova&show_icons=true&theme=dark&hide_border=true" alt="Статистика GitHub" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiraKazonova&theme=dark&hide_border=true" alt="Рекорд активности" height="165"/>
 </p>
 ## 🧑‍🎓 Образование и опыт
